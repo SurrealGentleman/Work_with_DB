@@ -1,0 +1,12 @@
+div{
+	width: 110px;
+	display: inline-block;
+}
+div.block{
+	width: 300px;
+	display: inline-block;
+	margin-right: 30px;
+}
+input.button{
+	margin-top: 15px;
+}
